@@ -11,11 +11,15 @@
   "dependencies": {
     "@material-ui/core": "latest",
     "@material-ui/icons": "^4.9.1",
+    "@reduxjs/toolkit": "1.6.1",
     "clsx": "latest",
     "react": "latest",
     "react-dom": "latest",
+    "react-redux": "7.2.5",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "latest"
+    "react-scripts": "latest",
+    "react-use": "17.3.1",
+    "styled-components": "5.3.1"
   },
   "browserslist": {
     "production": [
